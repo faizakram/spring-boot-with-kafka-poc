@@ -40,3 +40,6 @@ C:\kafka_2.12-0.10.2.1>.\bin\windows\kafka-console-consumer.bat --bootstrap-serv
 			<artifactId>spring-kafka</artifactId>
 </dependency>
 ```
+
+
+> [<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif">](https://www.youtube.com/watch?v=XBSIOjNymAA&feature=youtu.be)
